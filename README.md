@@ -3,7 +3,7 @@
 * Daniel Marquez
 * Diana Peiran 
 * Mert R. Oztop
-* Jacob Evans 
+* Jacob F. Evans 
 
 
 ![Query Kings Logo](https://user-images.githubusercontent.com/128439353/228010385-dfebd498-d15c-408a-9f7e-8ddd3b25fbd2.jpg)
