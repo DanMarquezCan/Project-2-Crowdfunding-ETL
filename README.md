@@ -2,13 +2,13 @@
 ## Group Number 2:
 * Daniel Marquez
 * Diana Peiran 
-* Mert Oztop
-* Jacob
+* Mert R. Oztop
+* Jacob Evans 
 
 
 ![Query Kings Logo](https://user-images.githubusercontent.com/128439353/228010385-dfebd498-d15c-408a-9f7e-8ddd3b25fbd2.jpg)
 
-Summary: For this Extract, transform, and load (ETL) mini project, you will work with a partner to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After we transform the data, we'll create four CSV files and use the CSV file data to create an ERD and a table schema. Finally, we’ll upload the CSV file data into a Postgres database.
+Summary: For this Extract, transform, and load (ETL) mini project, we worked within our group to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After we transformed the data, we created four CSV files and used the CSV files data to create an ERD and a table schema. Finally, we uploaded the CSV file data into a Postgres database.
 
 ### Requirements
 ### A Category DataFrame is Created (15 points)
@@ -47,3 +47,21 @@ There were two options to create the DF, We used option number 1: Use Pandas to 
 ### ERD
 ![image](https://user-images.githubusercontent.com/128439353/228026788-26250914-8b73-42b8-a96e-7b71e3933d31.png)
 
+
+### Validating Data:
+Verify that each table has the correct data by running a SELECT statement for each.
+
+### Campaign
+![image](https://user-images.githubusercontent.com/128439353/228032607-a2b77f4d-4e2f-49ab-9503-bf1425580ecb.png)
+
+#### Contacts
+![image](https://user-images.githubusercontent.com/128439353/228032805-6a065987-80fd-4869-aade-ee5305151582.png)
+
+
+### Category
+![image](https://user-images.githubusercontent.com/128439353/228032926-212c786b-174e-4c3b-925f-0c38befecb85.png)
+
+
+### Subcategory
+
+![image](https://user-images.githubusercontent.com/128439353/228033099-acd9a069-a722-4960-b870-dbb828430b9b.png)
