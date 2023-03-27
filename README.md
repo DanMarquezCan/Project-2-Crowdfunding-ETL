@@ -45,5 +45,5 @@ There were two options to create the DF, We used option number 1: Use Pandas to 
 ### A Crowdfunding Database is Created (25 points)
 
 ### ERD
-![QuickDBD-Free Diagram (1)](https://user-images.githubusercontent.com/128439353/228015732-eb62e730-9b84-4361-921d-ff5b70725ce8.png)
+![image](https://user-images.githubusercontent.com/128439353/228026788-26250914-8b73-42b8-a96e-7b71e3933d31.png)
 
